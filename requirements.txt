@@ -17,6 +17,7 @@ Flask
 Flask-Cors
 gdown
 torchvision
-pytorch
+torch
 timm
 gunicorn
+-e .
